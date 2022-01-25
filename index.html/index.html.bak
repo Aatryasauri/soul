@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+<title>my first website</title>
+<style>
+h1{
+    padding:10px;
+    background-color:yellow;
+	color:pink;
+     text-align:center;
+
+
+}
+footer{
+        text-align:center;
+
+
+
+
+
+
+}
+
+
+
+
+
+</style>
+
+
+
+
+
+</head>
+
+<body>
+<h1>my first website</h1>
+<p>Elon Reeve Musk FRS is an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineer at SpaceX; early-stage investor, CEO, and Product Architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. With an estimated net worth of around ...See more
+Early life</p>
+<p>Jeffrey Preston Bezos is an American entrepreneur,<u>media proprietor, investor, computer engineer</u> and commercial astronaut. He is the founder and executive chairman of Amazon, where he previously served as the president and CEO. With a net worth of around US$196 billion as of January ...See more
+Early life<br><br>
+Jeffrey <i>Preston Jorgensen was born in Albuquerque</i> New Me</p>
+<a href="https://www.google.com">  do yo know it that u are the king of this world </a>
+<a href="king.html">friends</a>
+<br>
+<h2> NATURE</h2>
+<a <img src="japan.jpg.jpg" height="100" width= "300" ></a>
+
+
+
+<footer>
+<p> helo princess i am back </p>
+
+
+</footer>
+
+
+
+
+
+
+
+</body>
+
+
+</html>
